@@ -1,0 +1,17 @@
+# Large binary files
+libil2cpp.so
+global-metadata.dat
+combined.zip
+*.zip
+*.so
+*.dat
+
+# Temporary files
+*.tmp
+*.temp
+il2cpp_parser.py
+global-metadata-decrypted.dat
+
+# IL2CPP Dumper artifacts
+Il2CppDumper/
+Cpp2IL/
